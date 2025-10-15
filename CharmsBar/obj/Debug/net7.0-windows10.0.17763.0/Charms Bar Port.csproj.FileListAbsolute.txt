@@ -1,0 +1,60 @@
+C:\Users\Lenovo\Desktop\charms-bar-port-main\src\CharmsBar\bin\Debug\net7.0-windows10.0.17763.0\Charms Bar Port.exe
+C:\Users\Lenovo\Desktop\charms-bar-port-main\src\CharmsBar\bin\Debug\net7.0-windows10.0.17763.0\Charms Bar Port.dll.config
+C:\Users\Lenovo\Desktop\charms-bar-port-main\src\CharmsBar\bin\Debug\net7.0-windows10.0.17763.0\Charms Bar Port.deps.json
+C:\Users\Lenovo\Desktop\charms-bar-port-main\src\CharmsBar\bin\Debug\net7.0-windows10.0.17763.0\Charms Bar Port.runtimeconfig.json
+C:\Users\Lenovo\Desktop\charms-bar-port-main\src\CharmsBar\bin\Debug\net7.0-windows10.0.17763.0\Charms Bar Port.dll
+C:\Users\Lenovo\Desktop\charms-bar-port-main\src\CharmsBar\bin\Debug\net7.0-windows10.0.17763.0\Charms Bar Port.pdb
+C:\Users\Lenovo\Desktop\charms-bar-port-main\src\CharmsBar\bin\Debug\net7.0-windows10.0.17763.0\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\Lenovo\Desktop\charms-bar-port-main\src\CharmsBar\bin\Debug\net7.0-windows10.0.17763.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\Lenovo\Desktop\charms-bar-port-main\src\CharmsBar\bin\Debug\net7.0-windows10.0.17763.0\WinRT.Runtime.dll
+C:\Users\Lenovo\Desktop\charms-bar-port-main\src\CharmsBar\obj\Debug\net7.0-windows10.0.17763.0\Charms Bar Port.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\charms-bar-port-main\src\CharmsBar\obj\Debug\net7.0-windows10.0.17763.0\CharmsClock.baml
+C:\Users\Lenovo\Desktop\charms-bar-port-main\src\CharmsBar\obj\Debug\net7.0-windows10.0.17763.0\CharmsMenu.baml
+C:\Users\Lenovo\Desktop\charms-bar-port-main\src\CharmsBar\obj\Debug\net7.0-windows10.0.17763.0\CharmsBar.g.cs
+C:\Users\Lenovo\Desktop\charms-bar-port-main\src\CharmsBar\obj\Debug\net7.0-windows10.0.17763.0\CharmsClock.g.cs
+C:\Users\Lenovo\Desktop\charms-bar-port-main\src\CharmsBar\obj\Debug\net7.0-windows10.0.17763.0\CharmsMenu.g.cs
+C:\Users\Lenovo\Desktop\charms-bar-port-main\src\CharmsBar\obj\Debug\net7.0-windows10.0.17763.0\App.g.cs
+C:\Users\Lenovo\Desktop\charms-bar-port-main\src\CharmsBar\obj\Debug\net7.0-windows10.0.17763.0\Charms Bar Port_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\charms-bar-port-main\src\CharmsBar\obj\Debug\net7.0-windows10.0.17763.0\Charms Bar Port_MarkupCompile.lref
+C:\Users\Lenovo\Desktop\charms-bar-port-main\src\CharmsBar\obj\Debug\net7.0-windows10.0.17763.0\CharmsBar.baml
+C:\Users\Lenovo\Desktop\charms-bar-port-main\src\CharmsBar\obj\Debug\net7.0-windows10.0.17763.0\Charms Bar Port.g.resources
+C:\Users\Lenovo\Desktop\charms-bar-port-main\src\CharmsBar\obj\Debug\net7.0-windows10.0.17763.0\Charms Bar Port.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\charms-bar-port-main\src\CharmsBar\obj\Debug\net7.0-windows10.0.17763.0\Charms Bar Port.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\charms-bar-port-main\src\CharmsBar\obj\Debug\net7.0-windows10.0.17763.0\Charms Bar Port.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\charms-bar-port-main\src\CharmsBar\obj\Debug\net7.0-windows10.0.17763.0\Charms Bar Port.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\charms-bar-port-main\src\CharmsBar\obj\Debug\net7.0-windows10.0.17763.0\Charms B.0939BD11.Up2Date
+C:\Users\Lenovo\Desktop\charms-bar-port-main\src\CharmsBar\obj\Debug\net7.0-windows10.0.17763.0\Charms Bar Port.dll
+C:\Users\Lenovo\Desktop\charms-bar-port-main\src\CharmsBar\obj\Debug\net7.0-windows10.0.17763.0\refint\Charms Bar Port.dll
+C:\Users\Lenovo\Desktop\charms-bar-port-main\src\CharmsBar\obj\Debug\net7.0-windows10.0.17763.0\Charms Bar Port.pdb
+C:\Users\Lenovo\Desktop\charms-bar-port-main\src\CharmsBar\obj\Debug\net7.0-windows10.0.17763.0\Charms Bar Port.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\charms-bar-port-main\src\CharmsBar\obj\Debug\net7.0-windows10.0.17763.0\ref\Charms Bar Port.dll
+C:\Users\Lenovo\Desktop\src\CharmsBar\bin\Debug\net7.0-windows10.0.17763.0\Charms Bar Port.exe
+C:\Users\Lenovo\Desktop\src\CharmsBar\bin\Debug\net7.0-windows10.0.17763.0\Charms Bar Port.dll.config
+C:\Users\Lenovo\Desktop\src\CharmsBar\bin\Debug\net7.0-windows10.0.17763.0\Charms Bar Port.deps.json
+C:\Users\Lenovo\Desktop\src\CharmsBar\bin\Debug\net7.0-windows10.0.17763.0\Charms Bar Port.runtimeconfig.json
+C:\Users\Lenovo\Desktop\src\CharmsBar\bin\Debug\net7.0-windows10.0.17763.0\Charms Bar Port.dll
+C:\Users\Lenovo\Desktop\src\CharmsBar\bin\Debug\net7.0-windows10.0.17763.0\Charms Bar Port.pdb
+C:\Users\Lenovo\Desktop\src\CharmsBar\bin\Debug\net7.0-windows10.0.17763.0\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\Lenovo\Desktop\src\CharmsBar\bin\Debug\net7.0-windows10.0.17763.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\Lenovo\Desktop\src\CharmsBar\bin\Debug\net7.0-windows10.0.17763.0\WinRT.Runtime.dll
+C:\Users\Lenovo\Desktop\src\CharmsBar\obj\Debug\net7.0-windows10.0.17763.0\Charms Bar Port.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\src\CharmsBar\obj\Debug\net7.0-windows10.0.17763.0\CharmsClock.baml
+C:\Users\Lenovo\Desktop\src\CharmsBar\obj\Debug\net7.0-windows10.0.17763.0\CharmsMenu.baml
+C:\Users\Lenovo\Desktop\src\CharmsBar\obj\Debug\net7.0-windows10.0.17763.0\CharmsBar.g.cs
+C:\Users\Lenovo\Desktop\src\CharmsBar\obj\Debug\net7.0-windows10.0.17763.0\CharmsClock.g.cs
+C:\Users\Lenovo\Desktop\src\CharmsBar\obj\Debug\net7.0-windows10.0.17763.0\CharmsMenu.g.cs
+C:\Users\Lenovo\Desktop\src\CharmsBar\obj\Debug\net7.0-windows10.0.17763.0\App.g.cs
+C:\Users\Lenovo\Desktop\src\CharmsBar\obj\Debug\net7.0-windows10.0.17763.0\Charms Bar Port_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\src\CharmsBar\obj\Debug\net7.0-windows10.0.17763.0\Charms Bar Port_MarkupCompile.lref
+C:\Users\Lenovo\Desktop\src\CharmsBar\obj\Debug\net7.0-windows10.0.17763.0\CharmsBar.baml
+C:\Users\Lenovo\Desktop\src\CharmsBar\obj\Debug\net7.0-windows10.0.17763.0\Charms Bar Port.g.resources
+C:\Users\Lenovo\Desktop\src\CharmsBar\obj\Debug\net7.0-windows10.0.17763.0\Charms Bar Port.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\src\CharmsBar\obj\Debug\net7.0-windows10.0.17763.0\Charms Bar Port.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\src\CharmsBar\obj\Debug\net7.0-windows10.0.17763.0\Charms Bar Port.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\src\CharmsBar\obj\Debug\net7.0-windows10.0.17763.0\Charms Bar Port.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\src\CharmsBar\obj\Debug\net7.0-windows10.0.17763.0\Charms B.0939BD11.Up2Date
+C:\Users\Lenovo\Desktop\src\CharmsBar\obj\Debug\net7.0-windows10.0.17763.0\Charms Bar Port.dll
+C:\Users\Lenovo\Desktop\src\CharmsBar\obj\Debug\net7.0-windows10.0.17763.0\refint\Charms Bar Port.dll
+C:\Users\Lenovo\Desktop\src\CharmsBar\obj\Debug\net7.0-windows10.0.17763.0\Charms Bar Port.pdb
+C:\Users\Lenovo\Desktop\src\CharmsBar\obj\Debug\net7.0-windows10.0.17763.0\Charms Bar Port.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\src\CharmsBar\obj\Debug\net7.0-windows10.0.17763.0\ref\Charms Bar Port.dll
